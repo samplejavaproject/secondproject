@@ -6,7 +6,7 @@ public class ThreadSample extends Thread
 	{ 
 		for(int i=0;i<10;i++)
 		{
-			System.out.println("first thread program hello");
+			System.out.println("first thread program hello  hello pytho pro");
 		}
 	
      }
