@@ -4,8 +4,8 @@ public class StingDemo {
 
 	public static void main(String[] args)
 	{
-		String s="hello";
-		s="how are yuo";
+		String s="hello java";
+		s="how are yuo hello";
 		
 		
 		System.out.println(s);
